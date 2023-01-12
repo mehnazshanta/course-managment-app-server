@@ -1,0 +1,30 @@
+
+
+[
+    {
+      "id": "01",
+      "name": "Html"
+    },
+    {
+      "id": "02",
+      "name": "Css"
+    },
+    {
+      "id": "03",
+      "name": "Tailwind"
+    },
+    {
+      "id": "04",
+      "name": "Bootsrap"
+    },
+    {
+      "id": "05",
+      "name": "React"
+    },
+    {
+      "id": "06",
+      "name": "javaScript"
+    }
+   
+  ]
+  

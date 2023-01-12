@@ -1,0 +1,108 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Introduction to HTML",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://blog.logrocket.com/wp-content/uploads/2020/10/Using-Bootstrap-with-React-tutorial-with-examples.png"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://media.istockphoto.com/photos/programming-web-pages-with-html-and-css-code-on-a-desktop-computer-picture-id1408445036?b=1&k=20&m=1408445036&s=170667a&w=0&h=Xx5oLvNfWnReWYIu8ofOKVpbnBa1bMvSOc1ONgyISP0=",
+      "details":"This course focuses on not only clearing the basics but also provides hands on learning experience with various hands on projects and exercises. The course helps to give a clear understanding of real life websites and teaches you how to create one.HTML, CSS and JavaScript are the foundation for web development. They make up most of the front end technologies which are used to create a website. Unlike other courses this course does not focus on the quantity of learning rather it focuses on the quality of learning. Learning through practicals and hand on exercises is the best form of learning. This course too emphasizes implementation of each topic that is learnt.This course is completely focused on providing you a good grasp on the front end technologies of web development that is HTML, CSS and JavaScript. This course covers the basics of HTML starting from how to create the basic structure of a website, text formatting, creating forms etc.At the end of this course you will learn to create a real life live website !",
+      "price" : "$20"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Css",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://media.istockphoto.com/photos/word-css-on-wooden-desk-and-laptop-picture-id1363205770?b=1&k=20&m=1363205770&s=170667a&w=0&h=7OiI3YQd-m0n8srRRPtCCQCDrHyofA5KL3boSikYGno=",
+      "details": "You will learn about Tailwind CSS, the CSS framework that is changing how you work with CSS. You will discover and experience what makes it different from others.This course will save you the work of study and research, and you will learn the basics from scratch to build any website you set your mind to.",
+      "price" : "30"
+
+      
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "03",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Tailwind",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220831183000/Tailwind-CSS-Tutorial1.png",
+      "details": "This course focuses on not only clearing the basics but also provides hands on learning experience with various hands on projects and exercises. The course helps to give a clear understanding of real life websites and teaches you how to create one.HTML, CSS and JavaScript are the foundation for web development. They make up most of the front end technologies which are used to create a website. Unlike other courses this course does not focus on the quantity of learning rather it focuses on the quality of learning. Learning through practicals and hand on exercises is the best form of learning. This course too emphasizes implementation of each topic that is learnt.This course is completely focused on providing you a good grasp on the front end technologies of web development that is HTML, CSS and JavaScript. This course covers the basics of HTML starting from how to create the basic structure of a website, text formatting, creating forms etc.At the end of this course you will learn to create a real life live website !",
+      "price" : "$40"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+     
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Bootsrap",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://media.istockphoto.com/photos/keyboard-with-bootstrap-word-picture-id1411546500?b=1&k=20&m=1411546500&s=170667a&w=0&h=93Pl1X8KntvGlHo7aYBi4SlAXpSy6_XQCub9_tu0yb4=",
+      "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "React",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://st2.depositphotos.com/1004174/7566/i/600/depositphotos_75664411-stock-photo-programming-concept.jpg"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/iCfQnsFQzuzB7S8bLbxECrVk",
+      "details": "This class accepts more than one value in tailwind CSS all the properties are covered as in class form. It is the alternative to the CSS gap property. This class is used to set the spacing also caller gutter between the rows and columns. As like column-gap and row-gap using separately both so that one can use simply gap property that can given column as well as row gap.",
+      "price" : "$50"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "JavaScript",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://st2.depositphotos.com/1004174/7566/i/600/depositphotos_75664411-stock-photo-programming-concept.jpg"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://st2.depositphotos.com/1004174/7566/i/600/depositphotos_75664411-stock-photo-programming-concept.jpg",
+      "details": "An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element. For example, attributes can be used to change the color, size, or functionality of HTML elements. Attributes are used by including them in an opening HTML tag",
+      "price" : "$60"
+      
+    }
+  ]

@@ -1,0 +1,24 @@
+{
+  "name": "b610-lerning-platform-server-side-mehnazshanta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-mehnazshanta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-mehnazshanta/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-mehnazshanta#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
